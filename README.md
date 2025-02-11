@@ -1,6 +1,11 @@
 # Assembly: EndGame
 Save the world from assembly by guessing the secret word in under 8 tries
 
+## Run commands
+cd assemblyHangMan\
+npm install\
+npm run dev
+
 ## Landing page
 <img width="1207" alt="Screenshot 2025-02-11 at 12 30 06 PM" src="https://github.com/user-attachments/assets/139fae8d-1a46-40b2-84a0-e74da1320765" />
 
