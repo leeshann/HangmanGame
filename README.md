@@ -1,6 +1,9 @@
 # Assembly: EndGame
 Save the world from assembly by guessing the secret word in under 8 tries
 
+## Tech Stack  
+- **Frontend:** React, Vite, HTML, CSS  
+
 ## Run commands
 cd assemblyHangMan\
 npm install\
